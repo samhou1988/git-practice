@@ -1,2 +1,4 @@
 create new branch
 use git diff
+git diff HEAD
+git diff --staged
